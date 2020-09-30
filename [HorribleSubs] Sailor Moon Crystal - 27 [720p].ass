@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OP + ED Song,Open Sans Semibold,36,&H00E2E0F9,&H000000FF,&H007317CF,&H00000000,0,1,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+Style: Ep Title,Open Sans Semibold,27,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,3,227,93,27,0
+Style: Title Card,Open Sans Semibold,36,&H008705DA,&H000000FF,&H00FFFFFF,&H00000000,1,1,0,0,100,100,0,0,1,3,0,9,13,187,160,1
+Style: To Be Continued card,Open Sans Semibold,36,&H00000000,&H000000FF,&H009DB5C6,&H00000000,1,1,0,0,100,100,0,0,1,2,0,7,213,13,267,1
+Style: endcard - don't miss the next episode!,Open Sans Semibold,30,&H00FAF6CE,&H000000FF,&H00D1A589,&H00000000,0,1,0,0,100,100,0,0,1,3,0,8,13,13,20,1
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00833C00,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,13,13,24,1
+Style: tsukino,Open Sans Semibold,30,&H00656566,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,200,13,200,1
+Style: see you soon,Open Sans Semibold,32,&H00262B2F,&H000000FF,&H00E0D3B4,&H00000000,1,1,0,0,100,100,0,0,1,2,0,3,13,120,147,1
+Style: bottom OP + ED Song,Open Sans Semibold,36,&H00E2E0F9,&H000000FF,&H007317CF,&H00000000,0,1,0,0,100,100,0,0,1,2,0,2,13,13,27,1
+Style: On Top,Open Sans Semibold,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:18.56,0:00:20.89,Default,,0000,0000,0000,,{\i1}The light awakens.{\i0}
+Dialogue: 0,0:00:23.23,0:00:25.31,Default,,0000,0000,0000,,{\i1}This Omega Area,{\i0}
+Dialogue: 0,0:00:25.69,0:00:30.07,Default,,0000,0000,0000,,{\i1}our sacred place will be\Nbrought to destruction by the light.{\i0}
+Dialogue: 0,0:00:31.90,0:00:34.07,Default,,0000,0000,0000,,{\i1}Other lights can be seen.{\i0}
+Dialogue: 0,0:00:35.20,0:00:36.74,Default,,0000,0000,0000,,{\i1}Lights of the stars.{\i0}
+Dialogue: 0,0:00:37.24,0:00:39.74,Default,,0000,0000,0000,,{\i1}The luster of the Guardian Stars.{\i0}
+Dialogue: 0,0:00:42.91,0:00:45.12,Default,,0000,0000,0000,,{\i1}Our old world...{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.59,Default,,0000,0000,0000,,{\i1}This Omega Area is\Nfull of the power similar to ours.{\i0}
+Dialogue: 0,0:00:50.38,0:00:55.43,Default,,0000,0000,0000,,{\i1}Everyone gravitates to\Nthat great aura.{\i0}
+Dialogue: 0,0:00:57.26,0:01:00.26,Default,,0000,0000,0000,,{\i1}In the luster of Guardian Stars,{\i0}
+Dialogue: 0,0:01:00.60,0:01:08.11,Default,,0000,0000,0000,,{\i1}I sense a light similar to\NTaioron Crystal, the spring of our power.{\i0}
+Dialogue: 0,0:01:08.77,0:01:10.61,Default,,0000,0000,0000,,{\i1}I'm fascinated...{\i0}
+Dialogue: 0,0:01:12.44,0:01:16.45,Default,,0000,0000,0000,,{\i1}But this sacred place is ours.{\i0}
+Dialogue: 0,0:01:16.95,0:01:21.12,Default,,0000,0000,0000,,{\i1}We shall create a new world here!{\i0}
+Dialogue: 0,0:01:22.62,0:01:25.21,Default,,0000,0000,0000,,{\i1}I'll never let anyone get in my way.{\i0}
+Dialogue: 0,0:01:25.96,0:01:28.29,Default,,0000,0000,0000,,{\i1}Delete any foreign substances!{\i0}
+Dialogue: 0,0:01:29.13,0:01:30.79,Default,,0000,0000,0000,,I know, sir.
+Dialogue: 0,0:01:32.30,0:01:34.80,Default,,0000,0000,0000,,Master Pharaoh 90.
+Dialogue: 0,0:01:36.13,0:01:38.97,Default,,0000,0000,0000,,{\i1}The light brings us\Nto destruction.{\i0}
+Dialogue: 0,0:01:40.43,0:01:42.81,Default,,0000,0000,0000,,{\i1}Never let it awaken.{\i0}
+Dialogue: 0,0:01:55.11,0:01:56.32,Default,,0000,0000,0000,,{\i1}Wake up.{\i0}
+Dialogue: 0,0:01:58.95,0:02:00.66,Default,,0000,0000,0000,,{\i1}The time has come.{\i0}
+Dialogue: 0,0:02:01.74,0:02:04.75,Default,,0000,0000,0000,,{\i1}The light guided by the three Talismans.{\i0}
+Dialogue: 0,0:02:06.00,0:02:08.17,Default,,0000,0000,0000,,{\i1}The beginning of doom.{\i0}
+Dialogue: 0,0:02:34.98,0:02:36.86,bottom OP + ED Song,,0000,0000,0000,,{\i1}Fall in love, girls{\i0}
+Dialogue: 0,0:02:34.98,0:02:36.86,OP + ED Song,,0000,0000,0000,,{\i1}Koi seyo otome{\i0}
+Dialogue: 0,0:02:36.99,0:02:42.20,bottom OP + ED Song,,0000,0000,0000,,{\i1}A flower's life is short and beautiful{\i0}
+Dialogue: 0,0:02:36.99,0:02:42.20,OP + ED Song,,0000,0000,0000,,{\i1}hana no inochi wa hakanaku utsukushii{\i0}
+Dialogue: 0,0:02:42.53,0:02:48.00,bottom OP + ED Song,,0000,0000,0000,,{\i1}I shall cast a spell\Nso you can become who you want to be{\i0}
+Dialogue: 0,0:02:42.53,0:02:48.00,OP + ED Song,,0000,0000,0000,,{\i1}naritai mono ni nareru mahou\Nkakete ageru{\i0}
+Dialogue: 0,0:02:48.12,0:02:51.04,bottom OP + ED Song,,0000,0000,0000,,{\i1}Your eyes show anxiety{\i0}
+Dialogue: 0,0:02:48.12,0:02:51.04,OP + ED Song,,0000,0000,0000,,{\i1}yureru sono manazashi{\i0}
+Dialogue: 0,0:02:51.21,0:02:55.05,bottom OP + ED Song,,0000,0000,0000,,{\i1}The vision showed by mild fever{\i0}
+Dialogue: 0,0:02:51.21,0:02:55.05,OP + ED Song,,0000,0000,0000,,{\i1}binetsu ga miseru maboroshi wa{\i0}
+Dialogue: 0,0:02:55.55,0:02:59.13,bottom OP + ED Song,,0000,0000,0000,,{\i1}It's a perfect world that makes me sad{\i0}
+Dialogue: 0,0:02:55.55,0:02:59.13,OP + ED Song,,0000,0000,0000,,{\i1}kanashii hodo ni kanpeki na sekai{\i0}
+Dialogue: 0,0:02:59.26,0:03:01.68,bottom OP + ED Song,,0000,0000,0000,,{\i1}I can't laugh it off{\i0}
+Dialogue: 0,0:02:59.26,0:03:01.68,OP + ED Song,,0000,0000,0000,,{\i1}waraenai yo{\i0}
+Dialogue: 0,0:03:01.80,0:03:08.02,bottom OP + ED Song,,0000,0000,0000,,{\i1}Something will happen tonight\NThe Premonition knocks on the door{\i0}
+Dialogue: 0,0:03:01.80,0:03:08.02,OP + ED Song,,0000,0000,0000,,{\i1}konya nanika ga okiru\Nyokan ga tobira wo tataku{\i0}
+Dialogue: 0,0:03:08.14,0:03:10.89,bottom OP + ED Song,,0000,0000,0000,,{\i1}The moon light is gone{\i0}
+Dialogue: 0,0:03:08.14,0:03:10.89,OP + ED Song,,0000,0000,0000,,{\i1}tsukiakari ga kiete{\i0}
+Dialogue: 0,0:03:11.02,0:03:17.23,bottom OP + ED Song,,0000,0000,0000,,{\i1}The beginning of the parade is\Nthe new moon{\i0}
+Dialogue: 0,0:03:11.02,0:03:17.23,OP + ED Song,,0000,0000,0000,,{\i1}parade no hajimari wa new moon{\i0}
+Dialogue: 0,0:03:17.40,0:03:24.20,bottom OP + ED Song,,0000,0000,0000,,{\i1}The future in the shining universe\Nsparks and turns into meteor shower{\i0}
+Dialogue: 0,0:03:17.40,0:03:24.20,OP + ED Song,,0000,0000,0000,,{\i1}kirakira hikaru sora niwa future\Nmekurumeite ryuuseigun{\i0}
+Dialogue: 0,0:03:24.53,0:03:30.91,bottom OP + ED Song,,0000,0000,0000,,{\i1}My excitement is being fulfilled\NI'm caught by your force of attraction{\i0}
+Dialogue: 0,0:03:24.53,0:03:30.91,OP + ED Song,,0000,0000,0000,,{\i1}tokimeki michite iku\Nkimi no inryoku ni kizuite shimatta{\i0}
+Dialogue: 0,0:03:31.08,0:03:37.75,bottom OP + ED Song,,0000,0000,0000,,{\i1}The beginning is the new moon{\i0}
+Dialogue: 0,0:03:31.08,0:03:37.75,OP + ED Song,,0000,0000,0000,,{\i1}hajimari wa new moon{\i0}
+Dialogue: 0,0:03:41.76,0:03:45.14,Default,,0000,0000,0000,,{\i1}Act.27 INFINITY 1\NPremonition - First Part{\i0}
+Dialogue: 0,0:03:57.94,0:03:58.69,Default,,0000,0000,0000,,{\i1}What was that?{\i0}
+Dialogue: 0,0:03:59.61,0:04:01.11,Default,,0000,0000,0000,,{\i1}What was that dream?{\i0}
+Dialogue: 0,0:04:08.29,0:04:09.54,Default,,0000,0000,0000,,{\i1}What's that?{\i0}
+Dialogue: 0,0:04:10.04,0:04:13.75,Default,,0000,0000,0000,,{\i1}What was that vision of fire?{\i0}
+Dialogue: 0,0:04:17.71,0:04:20.42,Default,,0000,0000,0000,,{\i1}Somehow it's too bright...{\i0}
+Dialogue: 0,0:04:21.38,0:04:23.26,Default,,0000,0000,0000,,{\i1}What is that light?{\i0}
+Dialogue: 0,0:04:24.72,0:04:26.26,Default,,0000,0000,0000,,{\i1}The sound of bells?{\i0}
+Dialogue: 0,0:04:27.80,0:04:29.77,Default,,0000,0000,0000,,{\i1}Maybe this is...{\i0}
+Dialogue: 0,0:04:30.47,0:04:34.10,Default,,0000,0000,0000,,{\i1}...the sound of bells for\Nthe wedding of Mamo-chan and I?{\i0}
+Dialogue: 0,0:04:37.73,0:04:41.49,Default,,0000,0000,0000,,Usagi, it's past 8.
+Dialogue: 0,0:04:48.08,0:04:50.29,Default,,0000,0000,0000,,Why didn't you wake me earlier?
+Dialogue: 0,0:04:50.41,0:04:54.29,Default,,0000,0000,0000,,I wonder why she never learns?
+Dialogue: 0,0:04:55.58,0:04:57.67,Default,,0000,0000,0000,,You're right, Ikuko Mama.
+Dialogue: 0,0:04:57.75,0:05:01.17,Default,,0000,0000,0000,,Usagi is a perpetual child.
+Dialogue: 0,0:05:01.26,0:05:03.47,Default,,0000,0000,0000,,{\i1}Continuing with the news.{\i0}
+Dialogue: 0,0:05:03.80,0:05:07.47,Default,,0000,0000,0000,,{\i1}An unidentified monster appeared\Nin a park in Minato Ward.{\i0}
+Dialogue: 0,0:05:03.80,0:05:13.73,On Top,,0000,0000,0000,,{\i1}"Reversion?\NUnidentified monster emerges"{\i0}
+Dialogue: 0,0:05:08.26,0:05:11.81,Default,,0000,0000,0000,,{\i1}Girls around there from the Private\NMugen Academy were attacked.{\i0}
+Dialogue: 0,0:05:11.93,0:05:13.73,Default,,0000,0000,0000,,{\i1}It was a bizarre incident.{\i0}
+Dialogue: 0,0:05:14.43,0:05:18.31,Default,,0000,0000,0000,,{\i1}According to a witness,\Na girl from the same school...{\i0}
+Dialogue: 0,0:05:18.44,0:05:20.82,Default,,0000,0000,0000,,{\i1}...suddenly morphed into a monster.{\i0}
+Dialogue: 0,0:05:20.94,0:05:24.15,Default,,0000,0000,0000,,{\i1}Officials suggest\Nit's a case of reversion.{\i0}
+Dialogue: 0,0:05:24.28,0:05:26.99,Default,,0000,0000,0000,,What's reversion, Kenji Papa?
+Dialogue: 0,0:05:27.11,0:05:31.33,Default,,0000,0000,0000,,Our human ancestors\Nonce resembled gorillas.
+Dialogue: 0,0:05:31.95,0:05:34.33,Default,,0000,0000,0000,,Reversion is returning\Nto such a state.
+Dialogue: 0,0:05:35.62,0:05:38.50,Default,,0000,0000,0000,,But I wonder\Nif it really was a monster?
+Dialogue: 0,0:05:39.63,0:05:43.84,Default,,0000,0000,0000,,Reversion?\NA human changes into a monster?
+Dialogue: 0,0:05:44.05,0:05:45.67,Default,,0000,0000,0000,,I'm off to school.
+Dialogue: 0,0:05:45.80,0:05:47.01,Default,,0000,0000,0000,,I have to go, too.
+Dialogue: 0,0:05:47.59,0:05:49.68,Default,,0000,0000,0000,,I'm leaving, Kenji Papa.
+Dialogue: 0,0:05:49.80,0:05:51.93,Default,,0000,0000,0000,,Yeah. Take care.
+Dialogue: 0,0:05:57.31,0:05:59.69,Default,,0000,0000,0000,,I'm so sorry, Mamo-chan.
+Dialogue: 0,0:06:00.98,0:06:04.23,Default,,0000,0000,0000,,You're late, Usa.\NI was about to leave without you.
+Dialogue: 0,0:06:06.65,0:06:10.03,Default,,0000,0000,0000,,Mamo-chan, my dear.\NSorry to be late.
+Dialogue: 0,0:06:10.16,0:06:13.70,Default,,0000,0000,0000,,From tomorrow,\NI'll make sure I'm never late again.
+Dialogue: 0,0:06:14.33,0:06:17.87,Default,,0000,0000,0000,,So please give me\Na good morning kiss.
+Dialogue: 0,0:06:19.00,0:06:20.88,Default,,0000,0000,0000,,Good morning, Mamo-chan.
+Dialogue: 0,0:06:23.00,0:06:23.75,Default,,0000,0000,0000,,I'm steamed!
+Dialogue: 0,0:06:24.17,0:06:26.59,Default,,0000,0000,0000,,Good morning, Mamoru-sama.
+Dialogue: 0,0:06:26.67,0:06:28.88,Default,,0000,0000,0000,,Hi, Diana.\NGood morning to you, too.
+Dialogue: 0,0:06:29.18,0:06:30.55,Default,,0000,0000,0000,,Oh, I forgot.
+Dialogue: 0,0:06:30.68,0:06:33.72,Default,,0000,0000,0000,,Usagi, you left your lunch at home.
+Dialogue: 0,0:06:34.35,0:06:38.23,Default,,0000,0000,0000,,You'd better get up earlier\Nand have breakfast.
+Dialogue: 0,0:06:38.52,0:06:41.73,Default,,0000,0000,0000,,Breakfast is the lifeblood\Nfor your day.
+Dialogue: 0,0:06:41.86,0:06:44.57,Default,,0000,0000,0000,,Well said, Chibi-Usa.
+Dialogue: 0,0:06:48.86,0:06:52.74,Default,,0000,0000,0000,,She's getting carried away.\NSuch a sassy girl!
+Dialogue: 0,0:06:53.70,0:06:58.41,Default,,0000,0000,0000,,{\i1}Actually, she's from the future.\NThe daughter of Mamo-chan and I.{\i0}
+Dialogue: 0,0:06:59.21,0:07:04.17,Default,,0000,0000,0000,,{\i1}She came to the past from the 30th century\Nto be trained as a Sailor Guardian.{\i0}
+Dialogue: 0,0:07:04.55,0:07:07.09,Default,,0000,0000,0000,,{\i1}She's staying at my home.{\i0}
+Dialogue: 0,0:07:07.21,0:07:09.26,Default,,0000,0000,0000,,Hello, Chibi-Usa-chan.
+Dialogue: 0,0:07:10.22,0:07:11.59,Default,,0000,0000,0000,,Here's Momo-chan and her friend.
+Dialogue: 0,0:07:11.72,0:07:13.76,Default,,0000,0000,0000,,I'm off.
+Dialogue: 0,0:07:15.89,0:07:20.27,Default,,0000,0000,0000,,{\i1}A memory of the fierce battle with the\NBlack Moon for the future of Earth...{\i0}
+Dialogue: 0,0:07:20.39,0:07:21.98,Default,,0000,0000,0000,,{\i1}...has faded into a dream.{\i0}
+Dialogue: 0,0:07:22.90,0:07:27.61,Default,,0000,0000,0000,,{\i1}I, Usagi Tsukino, and my associations\Nare leading a peaceful life.{\i0}
+Dialogue: 0,0:07:33.91,0:07:34.87,Default,,0000,0000,0000,,{\i1}Wake up.{\i0}
+Dialogue: 0,0:07:35.24,0:07:37.29,Default,,0000,0000,0000,,{\i1}The beginning of doom.{\i0}
+Dialogue: 0,0:07:39.25,0:07:40.46,Default,,0000,0000,0000,,Mamo-chan?
+Dialogue: 0,0:07:42.25,0:07:43.29,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:07:43.92,0:07:45.29,Default,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:07:49.59,0:07:55.22,Default,,0000,0000,0000,,{\i1}The next moment I feel happiness,\Nan anxiety flashes in my mind.{\i0}
+Dialogue: 0,0:07:56.43,0:08:00.64,Default,,0000,0000,0000,,{\i1}I have a feeling my\Ncurrent happiness won't last long.{\i0}
+Dialogue: 0,0:08:02.27,0:08:05.15,Default,,0000,0000,0000,,{\i1}Oh, well.\NThat's my fate.{\i0}
+Dialogue: 0,0:08:05.77,0:08:08.15,Default,,0000,0000,0000,,{\i1}I shall overcome whatever happens.{\i0}
+Dialogue: 0,0:08:08.61,0:08:12.15,Default,,0000,0000,0000,,{\i1}If that's what I must suffer\Nto fulfill my mission.{\i0}
+Dialogue: 0,0:08:33.30,0:08:34.51,Default,,0000,0000,0000,,Kaiohmaru?
+Dialogue: 0,0:08:34.80,0:08:35.51,Default,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:08:36.47,0:08:39.93,Default,,0000,0000,0000,,It's time to pick him up.\NOr we'll be late for school.
+Dialogue: 0,0:08:45.48,0:08:47.69,Default,,0000,0000,0000,,The sea will be rough today.
+Dialogue: 0,0:08:52.15,0:08:56.03,Default,,0000,0000,0000,,Haruka! You applied full power\Nwhen you went down the straight.
+Dialogue: 0,0:08:56.49,0:09:00.04,Default,,0000,0000,0000,,This machine is awesome.\NI wanted to go faster.
+Dialogue: 0,0:09:00.16,0:09:02.70,Default,,0000,0000,0000,,You shouldn't.\NNot during the test phase.
+Dialogue: 0,0:09:03.00,0:09:07.08,Default,,0000,0000,0000,,I said not to exceed 5000 rpm.\NYou'll damage the car.
+Dialogue: 0,0:09:07.50,0:09:09.71,Default,,0000,0000,0000,,He's so popular.
+Dialogue: 0,0:09:09.84,0:09:11.55,Default,,0000,0000,0000,,Don't you know him?
+Dialogue: 0,0:09:12.01,0:09:13.38,Default,,0000,0000,0000,,That's Haruka Tenoh.
+Dialogue: 0,0:09:13.51,0:09:17.39,Default,,0000,0000,0000,,He is a gifted young driver that Japan\Ncan be proud of after a long interval.
+Dialogue: 0,0:09:17.85,0:09:23.39,Default,,0000,0000,0000,,Those choppers, Tenohmaru and Kaiohmaru,\Nbelong to Haruka and his girlfriend.
+Dialogue: 0,0:09:23.52,0:09:26.73,Default,,0000,0000,0000,,They use them to go to school.\NWhat a life!
+Dialogue: 0,0:09:26.85,0:09:30.23,Default,,0000,0000,0000,,Hello, Michiru?\NYou're late.
+Dialogue: 0,0:09:32.03,0:09:34.24,Default,,0000,0000,0000,,It's a strong wind today.
+Dialogue: 0,0:09:37.53,0:09:40.91,Default,,0000,0000,0000,,Look.\NThat's Michiru Kaioh, the violinist.
+Dialogue: 0,0:09:41.03,0:09:43.41,Default,,0000,0000,0000,,So she's really dating Haruka?
+Dialogue: 0,0:09:43.54,0:09:44.41,Default,,0000,0000,0000,,I'm in shock.
+Dialogue: 0,0:09:44.54,0:09:46.96,Default,,0000,0000,0000,,I hate to admit,\Nbut they're a perfect couple.
+Dialogue: 0,0:09:47.37,0:09:49.42,Default,,0000,0000,0000,,They go to the same school, too.
+Dialogue: 0,0:09:49.54,0:09:51.42,Default,,0000,0000,0000,,It's much-talked-about.
+Dialogue: 0,0:09:51.55,0:09:54.59,Default,,0000,0000,0000,,Yes, that Mugen Academy.
+Dialogue: 0,0:09:56.63,0:09:57.93,Default,,0000,0000,0000,,It's here.
+Dialogue: 0,0:09:58.55,0:10:01.10,Default,,0000,0000,0000,,Good day, Motoki-san.
+Dialogue: 0,0:10:01.39,0:10:04.60,Default,,0000,0000,0000,,Welcome, Usagi-chan and Naru-chan.
+Dialogue: 0,0:10:06.06,0:10:06.98,Default,,0000,0000,0000,,You're late.
+Dialogue: 0,0:10:07.56,0:10:11.61,Default,,0000,0000,0000,,I finished reading a book while\NI was waiting for you, Usagi-chan.
+Dialogue: 0,0:10:12.90,0:10:14.65,Default,,0000,0000,0000,,{\i1}That's Ami Mizuno.{\i0}
+Dialogue: 0,0:10:14.74,0:10:18.11,Default,,0000,0000,0000,,{\i1}A kind-hearted genius girl\Nwith an IQ of 300.{\i0}
+Dialogue: 0,0:10:18.74,0:10:22.95,Default,,0000,0000,0000,,I thought you'd be\Nthe last here anyway, Usagi.
+Dialogue: 0,0:10:23.08,0:10:25.12,Default,,0000,0000,0000,,You're so mean, Rei-chan!
+Dialogue: 0,0:10:26.91,0:10:29.29,Default,,0000,0000,0000,,{\i1}This cool beauty's name is Rei Hino.{\i0}
+Dialogue: 0,0:10:29.42,0:10:31.50,Default,,0000,0000,0000,,{\i1}A shrine maiden with a\Nstrong spiritual power.{\i0}
+Dialogue: 0,0:10:31.92,0:10:34.51,Default,,0000,0000,0000,,We've been waiting for you, Usagi.
+Dialogue: 0,0:10:36.59,0:10:38.01,Default,,0000,0000,0000,,{\i1}That's Minako Aino.{\i0}
+Dialogue: 0,0:10:38.09,0:10:43.31,Default,,0000,0000,0000,,{\i1}She had fought as a Sailor V-chan\Nbefore we awakened as Sailor Guardians.{\i0}
+Dialogue: 0,0:10:43.60,0:10:45.31,Default,,0000,0000,0000,,Over here, hurry.
+Dialogue: 0,0:10:45.60,0:10:47.43,Default,,0000,0000,0000,,This game is awesome.
+Dialogue: 0,0:10:49.10,0:10:52.48,Default,,0000,0000,0000,,{\i1}That's Makoto Kino,\Na strong girl with many loves.{\i0}
+Dialogue: 0,0:10:52.61,0:10:55.98,Default,,0000,0000,0000,,{\i1}She loves plants and is a gifted chef.{\i0}
+Dialogue: 0,0:10:57.61,0:11:01.41,Default,,0000,0000,0000,,{\i1}We're Sailor Guardians bonded by\Nfate from our previous lives.{\i0}
+Dialogue: 0,0:11:02.28,0:11:05.99,Default,,0000,0000,0000,,{\i1}If all five of us are together,\Nwe can overcome any problems.{\i0}
+Dialogue: 0,0:11:06.45,0:11:10.83,Default,,0000,0000,0000,,"Battle Lap?"\NA game where we race together?
+Dialogue: 0,0:11:10.96,0:11:14.00,Default,,0000,0000,0000,,Yes, you can experience\Na real race.
+Dialogue: 0,0:11:14.13,0:11:15.75,Default,,0000,0000,0000,,Wear your helmet.
+Dialogue: 0,0:11:15.96,0:11:18.84,Default,,0000,0000,0000,,Step on the clutch\Nand start the engine.
+Dialogue: 0,0:11:22.14,0:11:25.18,Default,,0000,0000,0000,,Listen to that engine!\NVery realistic.
+Dialogue: 0,0:11:25.31,0:11:29.18,Default,,0000,0000,0000,,Keep changing up\Ntill you get to the 5th gear.
+Dialogue: 0,0:11:31.31,0:11:34.52,Default,,0000,0000,0000,,It's like driving a real car.\NScary!
+Dialogue: 0,0:11:34.65,0:11:37.86,Default,,0000,0000,0000,,Step hard on the gas pedal\Nand rev up.
+Dialogue: 0,0:11:38.99,0:11:39.86,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:11:41.15,0:11:42.20,Default,,0000,0000,0000,,Fantastic!
+Dialogue: 0,0:11:42.66,0:11:45.20,Default,,0000,0000,0000,,It took barely a moment\Nto recover 1 lap behind.
+Dialogue: 0,0:11:48.66,0:11:50.58,Default,,0000,0000,0000,,Check out his time.
+Dialogue: 0,0:11:51.17,0:11:53.71,Default,,0000,0000,0000,,He drives like\Na professional racer.
+Dialogue: 0,0:11:53.83,0:11:56.71,Default,,0000,0000,0000,,How fast is he going?
+Dialogue: 0,0:11:57.50,0:11:59.05,Default,,0000,0000,0000,,400 km/h!?
+Dialogue: 0,0:12:05.01,0:12:06.81,Default,,0000,0000,0000,,Usagi, that's far too dangerous.
+Dialogue: 0,0:12:07.18,0:12:08.06,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:10.60,0:12:12.56,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:12:12.69,0:12:16.06,Default,,0000,0000,0000,,The damage from the crash\Nfelt so real.
+Dialogue: 0,0:12:16.19,0:12:18.90,Default,,0000,0000,0000,,You were really fast, Usagi.
+Dialogue: 0,0:12:20.69,0:12:24.57,Default,,0000,0000,0000,,With the helmet on,\Nit didn't feel that fast at all.
+Dialogue: 0,0:12:24.70,0:12:25.91,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:12:26.87,0:12:31.41,Default,,0000,0000,0000,,If that's what you think,\Nyou have a talent for racing.
+Dialogue: 0,0:12:40.05,0:12:41.09,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:12:42.55,0:12:43.43,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:12:44.05,0:12:46.60,Default,,0000,0000,0000,,The color of your eyes is so noble.
+Dialogue: 0,0:12:48.06,0:12:50.10,Default,,0000,0000,0000,,Maybe a prince\Nin your previous life?
+Dialogue: 0,0:12:52.89,0:12:54.94,Default,,0000,0000,0000,,How can you say such a thing?
+Dialogue: 0,0:12:55.73,0:12:58.65,Default,,0000,0000,0000,,It's a mirror\Nthat reflects previous lives.
+Dialogue: 0,0:13:02.57,0:13:03.28,Default,,0000,0000,0000,,Okay then.
+Dialogue: 0,0:13:03.90,0:13:05.28,Default,,0000,0000,0000,,Let's you and I race.
+Dialogue: 0,0:13:06.24,0:13:07.78,Default,,0000,0000,0000,,Bye, Bun-head.
+Dialogue: 0,0:13:11.41,0:13:13.00,Default,,0000,0000,0000,,He's so cool!
+Dialogue: 0,0:13:20.09,0:13:22.30,Default,,0000,0000,0000,,Sorry for saying such an odd thing.
+Dialogue: 0,0:13:22.92,0:13:24.47,Default,,0000,0000,0000,,Don't let it bother you.
+Dialogue: 0,0:13:25.26,0:13:26.64,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:13:32.43,0:13:34.85,Default,,0000,0000,0000,,You became so close to her.
+Dialogue: 0,0:13:35.27,0:13:36.31,Default,,0000,0000,0000,,Are you jealous?
+Dialogue: 0,0:13:36.44,0:13:37.73,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:13:38.27,0:13:42.36,Default,,0000,0000,0000,,That Bun-head girl is cute,\Nstill like a child.
+Dialogue: 0,0:14:02.75,0:14:04.46,Default,,0000,0000,0000,,Here it comes.
+Dialogue: 0,0:14:04.59,0:14:07.43,Default,,0000,0000,0000,,That long-absent sensation\Nof love approaching.
+Dialogue: 0,0:14:07.55,0:14:08.93,Default,,0000,0000,0000,,Hey, Usagi.
+Dialogue: 0,0:14:09.05,0:14:13.93,Default,,0000,0000,0000,,I bet that cool guy is somehow famous.\NI've seen him somewhere before.
+Dialogue: 0,0:14:14.68,0:14:16.39,Default,,0000,0000,0000,,His school uniform...
+Dialogue: 0,0:14:17.06,0:14:19.90,Default,,0000,0000,0000,,That's it.\NHe's a student at Mugen Academy.
+Dialogue: 0,0:14:20.23,0:14:21.57,Default,,0000,0000,0000,,That Mugen Academy?
+Dialogue: 0,0:14:22.40,0:14:23.73,Default,,0000,0000,0000,,Mugen Academy?
+Dialogue: 0,0:14:23.90,0:14:25.28,Default,,0000,0000,0000,,Don't tell me you don't know.
+Dialogue: 0,0:14:25.40,0:14:29.95,Default,,0000,0000,0000,,Sankakusu, the biggest commercial area of\Nall the reclamation projects in Tokyo Bay.
+Dialogue: 0,0:14:30.07,0:14:33.91,Default,,0000,0000,0000,,It's a new private school\Nin Mugen District in that precinct.
+Dialogue: 0,0:14:34.08,0:14:35.50,Default,,0000,0000,0000,,When are you here, Umino?
+Dialogue: 0,0:14:35.62,0:14:38.92,Default,,0000,0000,0000,,It's full of gifted students, including\Nshow biz stars and Olympic athletes.
+Dialogue: 0,0:14:39.08,0:14:41.08,Default,,0000,0000,0000,,Famous musicians\Nand many others.
+Dialogue: 0,0:14:41.25,0:14:44.96,Default,,0000,0000,0000,,Everyone's talking about it.\NIt's like "the academy of geniuses."
+Dialogue: 0,0:14:45.09,0:14:47.22,Default,,0000,0000,0000,,You're very well-informed, Minako-chan.
+Dialogue: 0,0:14:47.34,0:14:50.09,Default,,0000,0000,0000,,Some of the current\Nbiggest stars are pupils there.
+Dialogue: 0,0:14:50.26,0:14:54.93,Default,,0000,0000,0000,,They have a massive hall\Neven available for concerts.
+Dialogue: 0,0:14:55.27,0:14:58.60,Default,,0000,0000,0000,,You could meet stars\Nonly if you go to that school.
+Dialogue: 0,0:14:58.77,0:15:00.44,Default,,0000,0000,0000,,I wish I could transfer to it.
+Dialogue: 0,0:15:00.60,0:15:02.36,Default,,0000,0000,0000,,She's such a fangirl.
+Dialogue: 0,0:15:02.48,0:15:07.28,Default,,0000,0000,0000,,"The academy of geniuses" means\NUsagi has no connection with.
+Dialogue: 0,0:15:07.44,0:15:08.49,Default,,0000,0000,0000,,You cut me!
+Dialogue: 0,0:15:08.61,0:15:10.78,Default,,0000,0000,0000,,You're too honest, Rei-chan.
+Dialogue: 0,0:15:10.95,0:15:12.41,Default,,0000,0000,0000,,And you delivered a final blow.
+Dialogue: 0,0:15:12.95,0:15:14.28,Default,,0000,0000,0000,,Ami-chan...
+Dialogue: 0,0:15:16.12,0:15:17.45,Default,,0000,0000,0000,,Hey look.
+Dialogue: 0,0:15:17.50,0:15:20.29,On Top,,0000,0000,0000,,{\i1}"16 year-old gifted racer, Haruka Tenoh"{\i0}
+Dialogue: 0,0:15:17.79,0:15:20.29,Default,,0000,0000,0000,,I thought I'd seen him\Nsomewhere before.
+Dialogue: 0,0:15:20.79,0:15:24.29,Default,,0000,0000,0000,,He's the professional race car driver,\NHaruka Tenoh.
+Dialogue: 0,0:15:24.46,0:15:25.96,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:15:26.30,0:15:30.97,Default,,0000,0000,0000,,So he's an actual racer?\NThat's why he's such a good driver.
+Dialogue: 0,0:15:33.47,0:15:35.47,Default,,0000,0000,0000,,Does he hang around Juban Mall?
+Dialogue: 0,0:15:35.64,0:15:36.97,Default,,0000,0000,0000,,Maybe we can see him again.
+Dialogue: 0,0:15:37.81,0:15:40.48,Default,,0000,0000,0000,,Look. They're students\Nfrom Mugen Academy.
+Dialogue: 0,0:15:40.64,0:15:43.65,Default,,0000,0000,0000,,Their girl's uniform is so pretty.
+Dialogue: 0,0:15:43.81,0:15:44.82,Default,,0000,0000,0000,,It sure is!
+Dialogue: 0,0:16:20.85,0:16:23.69,Default,,0000,0000,0000,,I'll take care of Naru-chan and Umino.\NYou handle the monster.
+Dialogue: 0,0:16:24.02,0:16:25.69,Default,,0000,0000,0000,,Okay, Mamo-chan.
+Dialogue: 0,0:16:26.19,0:16:28.53,Default,,0000,0000,0000,,Guys, let's transform.
+Dialogue: 0,0:16:28.69,0:16:29.57,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:31.20,0:16:34.36,Default,,0000,0000,0000,,Moon Cosmic Power
+Dialogue: 0,0:16:34.70,0:16:36.53,Default,,0000,0000,0000,,Make Up!
+Dialogue: 0,0:17:12.90,0:17:15.57,Default,,0000,0000,0000,,Mercury Planet Power
+Dialogue: 0,0:17:15.74,0:17:17.57,Default,,0000,0000,0000,,Make Up!
+Dialogue: 0,0:17:41.93,0:17:44.77,Default,,0000,0000,0000,,Mars Planet Power
+Dialogue: 0,0:17:44.94,0:17:46.94,Default,,0000,0000,0000,,Make Up!
+Dialogue: 0,0:18:14.97,0:18:17.80,Default,,0000,0000,0000,,Jupiter Planet Power
+Dialogue: 0,0:18:17.97,0:18:20.30,Default,,0000,0000,0000,,Make Up!
+Dialogue: 0,0:18:42.16,0:18:44.83,Default,,0000,0000,0000,,Venus Planet Power
+Dialogue: 0,0:18:45.00,0:18:47.00,Default,,0000,0000,0000,,Make Up!
+Dialogue: 0,0:19:18.86,0:19:23.20,Default,,0000,0000,0000,,The Pretty Guardian in a Sailor Suit,\NGuardian of Love and Justice.
+Dialogue: 0,0:19:23.87,0:19:26.04,Default,,0000,0000,0000,,Sailor Moon!
+Dialogue: 0,0:19:27.37,0:19:30.71,Default,,0000,0000,0000,,In the name of the Moon,\NI'll punish you!
+Dialogue: 0,0:19:31.08,0:19:35.38,Default,,0000,0000,0000,,Protected by Mercury, the Planet of Water.\NGuardian of Wisdom.
+Dialogue: 0,0:19:35.88,0:19:38.22,Default,,0000,0000,0000,,Sailor Mercury!
+Dialogue: 0,0:19:39.55,0:19:42.55,Default,,0000,0000,0000,,Douse yourself in water and repent!
+Dialogue: 0,0:19:43.72,0:19:48.06,Default,,0000,0000,0000,,Protected by Mars, the Planet of Fire.\NGuardian of War.
+Dialogue: 0,0:19:48.39,0:19:50.23,Default,,0000,0000,0000,,Sailor Mars!
+Dialogue: 0,0:19:50.89,0:19:54.57,Default,,0000,0000,0000,,In the name of Mars,\NI will chastise you!
+Dialogue: 0,0:19:55.73,0:20:00.74,Default,,0000,0000,0000,,Protected by Jupiter, the Planet of\NThunder. Guardian of Protection.
+Dialogue: 0,0:20:01.07,0:20:03.24,Default,,0000,0000,0000,,Sailor Jupiter!
+Dialogue: 0,0:20:03.45,0:20:06.58,Default,,0000,0000,0000,,I'll make you feel so much regret,\Nit'll leave you numb!
+Dialogue: 0,0:20:07.91,0:20:11.75,Default,,0000,0000,0000,,Protected by Venus, Planet of Beauty.\NGuardian of Love.
+Dialogue: 0,0:20:12.75,0:20:14.59,Default,,0000,0000,0000,,Sailor Venus!
+Dialogue: 0,0:20:15.09,0:20:19.26,Default,,0000,0000,0000,,Allow me to punish you with love!
+Dialogue: 0,0:20:22.89,0:20:23.76,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:20:23.93,0:20:25.26,Default,,0000,0000,0000,,Reversion?
+Dialogue: 0,0:20:28.77,0:20:31.10,Default,,0000,0000,0000,,I see a girl ingested in the monster.
+Dialogue: 0,0:20:32.27,0:20:33.65,Default,,0000,0000,0000,,I will remove the evil spirit.
+Dialogue: 0,0:20:35.11,0:20:37.44,Default,,0000,0000,0000,,Evil Spirit, be exorcized!
+Dialogue: 0,0:20:40.94,0:20:42.45,Default,,0000,0000,0000,,Leave it to us.
+Dialogue: 0,0:20:42.78,0:20:43.78,Default,,0000,0000,0000,,Jupiter?
+Dialogue: 0,0:20:43.95,0:20:44.78,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:45.95,0:20:47.62,Default,,0000,0000,0000,,Venus...
+Dialogue: 0,0:20:49.62,0:20:53.96,Default,,0000,0000,0000,,...Wink Chain Sword!
+Dialogue: 0,0:20:55.79,0:20:58.92,Default,,0000,0000,0000,,Jupiter Coconut...
+Dialogue: 0,0:20:59.46,0:21:00.63,Default,,0000,0000,0000,,...Cyclone!
+Dialogue: 0,0:21:21.99,0:21:22.82,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:21:25.66,0:21:27.99,Default,,0000,0000,0000,,Call an ambulance!\NQuickly.
+Dialogue: 0,0:21:28.33,0:21:29.16,Default,,0000,0000,0000,,Sure!
+Dialogue: 0,0:21:31.50,0:21:34.33,Default,,0000,0000,0000,,{\i1}I feel like being watched.\NAny Enemies left?{\i0}
+Dialogue: 0,0:21:34.87,0:21:36.00,Default,,0000,0000,0000,,Venus?
+Dialogue: 0,0:21:36.17,0:21:38.00,Default,,0000,0000,0000,,No, it's nothing.
+Dialogue: 0,0:21:39.84,0:21:44.51,Default,,0000,0000,0000,,{\i1}The moment she transformed\Ninto a monster, my brooch reacted.{\i0}
+Dialogue: 0,0:21:45.68,0:21:48.51,Default,,0000,0000,0000,,{\i1}The "Legendary Silver Crystal" reacted.{\i0}
+Dialogue: 0,0:21:56.52,0:21:57.81,Default,,0000,0000,0000,,These are...
+Dialogue: 0,0:21:58.02,0:21:59.36,Default,,0000,0000,0000,,Reversions.
+Dialogue: 0,0:21:59.52,0:22:00.73,Default,,0000,0000,0000,,No mistake.
+Dialogue: 0,0:22:01.53,0:22:04.36,Default,,0000,0000,0000,,You all watched the morning news,\Ndid you?
+Dialogue: 0,0:22:04.70,0:22:08.87,Default,,0000,0000,0000,,About that girl turning into a monster\Nand attacking people.
+Dialogue: 0,0:22:10.03,0:22:13.20,Default,,0000,0000,0000,,She's also a student\Nat Mugen Academy.
+Dialogue: 0,0:22:14.71,0:22:16.71,Default,,0000,0000,0000,,{\i1}A new enemy?{\i0}
+Dialogue: 0,0:22:17.04,0:22:20.21,Default,,0000,0000,0000,,Mugen Academy and reversions...
+Dialogue: 0,0:22:21.21,0:22:23.05,Default,,0000,0000,0000,,That sounds very suspicious.
+Dialogue: 0,0:22:23.38,0:22:27.43,Default,,0000,0000,0000,,Now we have to go and investigate\NMugen Academy.
+Dialogue: 0,0:22:27.55,0:22:28.26,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:22:30.39,0:22:31.51,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:22:32.39,0:22:33.89,Default,,0000,0000,0000,,To Mugen Academy.
+Dialogue: 0,0:22:35.73,0:22:45.65,bottom OP + ED Song,,0000,0000,0000,,{\i1}Jumping over thousands of dawns\NJumping over eternity{\i0}
+Dialogue: 0,0:22:35.73,0:22:45.65,OP + ED Song,,0000,0000,0000,,{\i1}Ikusen no yoake wo tobikoete\NEien mo tobikoete{\i0}
+Dialogue: 0,0:23:00.58,0:23:03.96,bottom OP + ED Song,,0000,0000,0000,,{\i1}Every time I divine through the mirror{\i0}
+Dialogue: 0,0:23:00.58,0:23:03.96,OP + ED Song,,0000,0000,0000,,{\i1}kagami no mukou uranau tabi ni{\i0}
+Dialogue: 0,0:23:04.09,0:23:07.42,bottom OP + ED Song,,0000,0000,0000,,{\i1}The shining truth is the only one{\i0}
+Dialogue: 0,0:23:04.09,0:23:07.42,OP + ED Song,,0000,0000,0000,,{\i1}hikari hanatsu shinjitsu wa hitotsu{\i0}
+Dialogue: 0,0:23:07.55,0:23:11.09,bottom OP + ED Song,,0000,0000,0000,,{\i1}At the edge of the universe\Nwith my frosty sword{\i0}
+Dialogue: 0,0:23:07.55,0:23:11.09,OP + ED Song,,0000,0000,0000,,{\i1}kono sora no hate kooru yaiba de{\i0}
+Dialogue: 0,0:23:11.26,0:23:14.93,bottom OP + ED Song,,0000,0000,0000,,{\i1}I will tear the veil of night{\i0}
+Dialogue: 0,0:23:11.26,0:23:14.93,OP + ED Song,,0000,0000,0000,,{\i1}yoru no tobari mo kirisaite iku{\i0}
+Dialogue: 0,0:23:15.06,0:23:21.94,bottom OP + ED Song,,0000,0000,0000,,{\i1}Buzzing of my heart are\Nlike the endless sound of the surf{\i0}
+Dialogue: 0,0:23:15.06,0:23:21.94,OP + ED Song,,0000,0000,0000,,{\i1}nariyamanu shiosai no youna\Nmune no zawameki ga{\i0}
+Dialogue: 0,0:23:22.11,0:23:25.28,bottom OP + ED Song,,0000,0000,0000,,{\i1}Becoming the first wind of spring{\i0}
+Dialogue: 0,0:23:22.11,0:23:25.28,OP + ED Song,,0000,0000,0000,,{\i1}haru wo tsugeru kaze ni nari\N{\i0}
+Dialogue: 0,0:23:25.44,0:23:29.40,bottom OP + ED Song,,0000,0000,0000,,{\i1}It catches us and surpasses us{\i0}
+Dialogue: 0,0:23:25.44,0:23:29.40,OP + ED Song,,0000,0000,0000,,{\i1}bokura wo oikosunda{\i0}
+Dialogue: 0,0:23:31.07,0:23:34.24,bottom OP + ED Song,,0000,0000,0000,,{\i1}We repeat thousands of eternities{\i0}
+Dialogue: 0,0:23:31.07,0:23:34.24,OP + ED Song,,0000,0000,0000,,{\i1}ikusen no eien wo kurikaesu{\i0}
+Dialogue: 0,0:23:34.41,0:23:37.87,bottom OP + ED Song,,0000,0000,0000,,{\i1}In the boundless, lonely darkness{\i0}
+Dialogue: 0,0:23:34.41,0:23:37.87,OP + ED Song,,0000,0000,0000,,{\i1}hateshinai kodoku no yami no naka de{\i0}
+Dialogue: 0,0:23:38.00,0:23:39.71,bottom OP + ED Song,,0000,0000,0000,,{\i1}I've been looking for you{\i0}
+Dialogue: 0,0:23:38.00,0:23:39.71,OP + ED Song,,0000,0000,0000,,{\i1}anata wo sagashiteta{\i0}
+Dialogue: 0,0:23:39.83,0:23:41.54,bottom OP + ED Song,,0000,0000,0000,,{\i1}All my life{\i0}
+Dialogue: 0,0:23:39.83,0:23:41.54,OP + ED Song,,0000,0000,0000,,{\i1}zutto sagashiteita{\i0}
+Dialogue: 0,0:23:41.67,0:23:44.96,bottom OP + ED Song,,0000,0000,0000,,{\i1}As I've been led by force of attraction{\i0}
+Dialogue: 0,0:23:41.67,0:23:44.96,OP + ED Song,,0000,0000,0000,,{\i1}inryoku ni michibikareru mama{\i0}
+Dialogue: 0,0:23:45.09,0:23:48.38,OP + ED Song,,0000,0000,0000,,{\i1}motsureta akai ito wo hodoku youni{\i0}
+Dialogue: 0,0:23:45.09,0:23:48.38,bottom OP + ED Song,,0000,0000,0000,,{\i1}Like untangling our red threads{\i0}
+Dialogue: 0,0:23:48.51,0:23:52.05,OP + ED Song,,0000,0000,0000,,{\i1}ryuusei ni notte aini yuku kara{\i0}
+Dialogue: 0,0:23:48.51,0:23:52.05,bottom OP + ED Song,,0000,0000,0000,,{\i1}I'll come to see you\Nriding on a shooting star{\i0}
+Dialogue: 0,0:23:52.18,0:23:53.89,OP + ED Song,,0000,0000,0000,,{\i1}toki wo koe haruka{\i0}
+Dialogue: 0,0:23:52.18,0:23:53.89,bottom OP + ED Song,,0000,0000,0000,,{\i1}Over time, far off{\i0}
+Dialogue: 0,0:23:53.97,0:23:55.72,OP + ED Song,,0000,0000,0000,,{\i1}sadame ga michiru{\i0}
+Dialogue: 0,0:23:53.97,0:23:55.72,bottom OP + ED Song,,0000,0000,0000,,{\i1}Fate is fulfilled{\i0}
+Dialogue: 0,0:23:55.85,0:24:03.31,OP + ED Song,,0000,0000,0000,,{\i1}sono shunkan wo ima tomo ni futari de{\i0}
+Dialogue: 0,0:23:55.85,0:24:03.31,bottom OP + ED Song,,0000,0000,0000,,{\i1}Now we share the fateful moment{\i0}
+Dialogue: 0,0:24:05.86,0:24:07.32,Default,,0000,0000,0000,,{\i1}That's a reversion!{\i0}
+Dialogue: 0,0:24:07.99,0:24:11.61,Default,,0000,0000,0000,,{\i1}I, Sailor Moon will never forgive villains\Nwho disturb love and peace!{\i0}
+Dialogue: 0,0:24:12.53,0:24:16.62,Default,,0000,0000,0000,,{\i1}Next episode Act. 27 INFINITY 1\NPremonition - The 2nd part.{\i0}
+Dialogue: 0,0:24:17.29,0:24:19.50,Default,,0000,0000,0000,,{\i1}The Moonlight is the Message of Love.{\i0}
+Dialogue: 0,0:24:19.50,0:24:21.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:21.50,0:24:23.50,bottom OP + ED Song,,0000,0000,0000,,
